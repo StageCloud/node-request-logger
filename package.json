@@ -18,6 +18,6 @@
   "homepage": "https://github.com/StageCloud/node-request-logger#readme",
   "dependencies": {
     "express-winston": "^2.0.0",
-    "winston": "^2.2.0"
+    "winston": "^2.4.1"
   }
 }
